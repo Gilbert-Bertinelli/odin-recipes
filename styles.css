@@ -1,0 +1,16 @@
+body {
+	background-color: lightgrey;
+}
+
+h1 {
+	text-align: center;
+	color: darkblue;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	text-align: center;
+}
